@@ -35,7 +35,7 @@ git clone https://github.com/dev-jooseph/modern-todo-list.git
 
 ```
 
-
+or view it live here (https://dev-jooseph.github.io/modern-todo-list/)
 
 ---
 
